@@ -1,0 +1,18 @@
+commit 9f8cd990a514416795fc76e99a51c137d4ae24b4 (HEAD -> desafio-1)
+Author: JuanDouCore <juanjoyqueco.8@hotmail.com>
+Date:   Mon Aug 7 17:09:34 2023 -0300
+
+    Se modifico el archivo archivo.txt
+
+commit 5556ca037e572909bd65c0e44dc8b513ee0e33a6
+Author: JuanDouCore <juanjoyqueco.8@hotmail.com>
+Date:   Mon Aug 7 17:08:02 2023 -0300
+
+    Se modifico el archivo README.md y se creo el archivo archivo.txt
+
+commit 671ff091f9d86b0e5d6e07fa1b60b085c856d321 (origin/desafio-1, master)
+Author: JuanDouCore <juanjoyqueco.8@hotmail.com>
+Date:   Mon Aug 7 16:52:19 2023 -0300
+
+    Creacion y escritura del archivo README.md
+
