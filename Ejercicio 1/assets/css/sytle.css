@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'roboto';
+    src: url("../fonts/Roboto-Light.ttf");
+}
+@font-face {
+    font-family: 'coolvetica';
+    src: url("../fonts/coolveticarg.otf");
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: #0a2ff1;
+    font-family: 'coolvetica';
+    font-size: 120px;
+}
+
+.titulo-secundario {
+    font-family: 'roboto';
+    font-size: 40px;
+    font-weight: normal;
+    color: #04146c;
+}
+
+.contenido-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton-comun {
+    padding: 10px 40px;
+    font-size: 40px;
+    font-family: 'roboto';
+    margin-top: 10px;
+}
+
+.button-one {
+    color: white;
+    background-color: #0a2ff1;
+    border: 3px solid #0a2ff1;
+}
+
+.button-two {
+    color: #04146c;
+    background-color: white;
+    border: 3px solid #04146c;
+}
