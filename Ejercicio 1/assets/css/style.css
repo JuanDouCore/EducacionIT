@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300&display=swap');
+@font-face {
+    font-family: 'coolvetica';
+    src: url("../fonts/coolvetica.otf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'coolvetica';
+    font-size: 90pt;
+    color: #0a2ff1;
+}
+
+.tarjetas {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 5em;
+}
+
+.tarjeta {
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #eff2ff;
+    width: 20%;
+    padding: 1em;
+}
+
+.tituloTarjeta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;    
+}
+
+.textoTituloTarjeta {
+    margin-block-start: 0.5em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 18pt;
+    color: #0a2ff1;
+}
+
+.contenidoTarjeta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;
+}
+
+.textoContenidoTarjeta {
+    margin-block-start: 0.5em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14pt;
+    color: #04146c;
+}

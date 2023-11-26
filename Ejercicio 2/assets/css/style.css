@@ -1,0 +1,49 @@
+@import url('https://fonts.google.com/share?selection.family=Mulish:wght@400;700;900');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+main h1, h2, p {
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+    font-size: 30pt;
+    color: #0a2ff1;
+}
+
+h1 {
+    font-family: 'Mulishblack', sans-serif;
+    font-size: 60pt;
+    color: #0a2ff1;
+}
+
+p {
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+    font-size: 20pt;
+    color: #04146c;
+}
+
+button {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 20pt;
+    color: white;
+    background-color: #0a2ff1;
+    border: none;
+    width: 400px;
+    height: 70px;
+    margin: 10px;
+}
