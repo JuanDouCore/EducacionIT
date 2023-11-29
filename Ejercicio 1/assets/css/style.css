@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300&display=swap');
+
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.portada {
+    background-image: url(../img/fondo.jpg);
+    padding: 20px;
+    background-size: 100%;
+    text-align: center;
+  }
+
+.portada--blend {
+    mix-blend-mode: screen;
+}
+
+h1 {
+    background-color: white;
+    left: 30%;
+    top: 30%;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px 5px;
+    mix-blend-mode: screen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+}
+
+.container-imagen {
+    background-image: url(../img/foto.png);
+    background-size: 100%;
+    height: 36em;
+    width: 50%;
+}
+
+.info p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.experiencia {
+    background-color: pink;
+    height: 36em;
+    overflow: hidden;
+    position: absolute;
+    max-width: 40%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.info:hover .experiencia {
+    opacity: 1;
+}
+
+.experiencia h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.expInfo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+}
+
