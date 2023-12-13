@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+.titulo {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    color: #3957f1;
+    font-size: 3rem;
+}
+
+.div-principal{
+    border: 3px solid lightgray;
+}
+
+.img-container {
+    position: relative;
+}
+
+.text-box {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    font-family: Mulish, sans-serif;
+}
+
+.titulo-text-box{
+    font-weight: bold;
+    margin-bottom: 0.1em;
+    font-size: 1.5rem;
+}
