@@ -1,0 +1,14 @@
+@import url(https://fonts.google.com/share?selection.family=Mulish:ital,wght@0,400;0,700;1,400);
+
+.texto-titulo {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    color: #04146c;
+}
+
+.texto-desc {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5em;
+    counter-reset: #04146c;
+}

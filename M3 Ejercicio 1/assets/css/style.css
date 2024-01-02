@@ -1,0 +1,29 @@
+@import url(https://fonts.google.com/share?selection.family=Mulish:ital,wght@0,400;0,700;1,400);
+
+.titulo-form {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #04146c;
+}
+
+.info-form{
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    color: #04146c;
+}
+
+.lineas-form{
+    border-color: #8a9af1;
+}
+
+.texto-recordarme{
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5em;
+    color: #04146c;
+}
+
+.btn-custom{
+    width: 25%;
+}

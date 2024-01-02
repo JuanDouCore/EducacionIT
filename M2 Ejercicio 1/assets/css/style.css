@@ -1,0 +1,43 @@
+@import url(https://fonts.google.com/share?selection.family=Mulish:ital,wght@0,400;0,700;1,400);
+
+
+.img-tarjeta{
+    width: 50%;
+    height: auto;
+}
+
+.titulto-principal{
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 4em;
+    color: #04146c;
+}
+
+.tarjeta-nombre {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #0a2ff1;
+}
+
+.tarjeta-posicion {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #04146c;
+}
+
+.tarjeta-desc {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5rem;
+    color: #04146c;
+}
+
+.tarjeta-boton{
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5rem;
+    color: #04146c;
+    padding: 0.2em 0.9em;
+    background-color: transparent;
+    border-color: #0a2ff1;
+}

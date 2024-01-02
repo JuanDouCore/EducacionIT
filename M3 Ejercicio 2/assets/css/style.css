@@ -1,0 +1,23 @@
+@import url(https://fonts.google.com/share?selection.family=Mulish:ital,wght@0,400;0,700;1,400);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
+
+.titulo {
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: 5em;
+    color: #04146c;
+}
+
+.descripcion {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.3;
+    color: #04146c;
+}
+
+.btn-custom {
+    font-family: 'Source Sans 3', sans-serif;
+    border-color: transparent;
+    color: white;
+    background-color: #04146c;
+    margin: 1em;
+}
